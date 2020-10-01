@@ -1,6 +1,4 @@
 first
-
 upload to git hub remote reposotory
-
 
 this is from remote repository
